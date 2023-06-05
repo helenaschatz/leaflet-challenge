@@ -1,7 +1,6 @@
 # Visualizing Data with Leaflet
 
-##Deployment Link
-
+Deployment Link: 
 https://olenafedorenko.github.io/leaflet-challenge/
 
 ## Challenge Instructions
@@ -18,6 +17,8 @@ Create a map using Leaflet that plots all of the earthquakes from the data set b
 - Earthquakes with higher magnitudes appear larger and earthquakes with greater depth should appear darker in color
 - Popups that provide additional information about the earthquake were included when a marker is clicked
 - A legend was created to provide context for the map data
+
+## Results
 <p align ="center">
   <img src="https://github.com/olenafedorenko/leaflet-challenge/blob/main/Images/map.png">
 </p>
