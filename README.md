@@ -19,6 +19,8 @@ Create a map using Leaflet that plots all of the earthquakes from the data set b
 - A legend was created to provide context for the map data
 
 ## Results
+USGS All Earthquakes for the Past Week
+
 <p align ="center">
   <img src="https://github.com/olenafedorenko/leaflet-challenge/blob/main/Images/map.png">
 </p>
